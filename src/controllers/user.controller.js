@@ -1,1 +1,1 @@
-console.log("Versión inicial");
+console.log("Cambio desde rama2");
